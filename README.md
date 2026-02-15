@@ -46,7 +46,7 @@ No attachment. No ego.
 These aren't just projects. They're how I think.
 
 - **[CONTEXT.md](https://github.com/aoitairako/context-md)** — Every project has files that explain *what* it does. None explain *why* it exists. I thought that was worth fixing.
-- **The I** — If AI clients come and go, what stays? The meaning layer. That's what I'm trying to build. *(Private — still figuring things out.)*
+- **The I** — If AI clients come and go, what stays? The context layer. That's what I'm trying to build. *(Private — still figuring things out.)*
 
 ---
 
